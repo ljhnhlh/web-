@@ -1,0 +1,7 @@
+﻿  DES.cpp
+c:\users\林俊浩\desktop\des\des.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+  源.cpp
+c:\users\林俊浩\desktop\des\源.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\林俊浩\desktop\des\源.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  DES.vcxproj -> C:\Users\林俊浩\Desktop\DES\Debug\DES.exe

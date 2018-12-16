@@ -1,0 +1,7 @@
+﻿  main.cpp
+  MD5.cpp
+c:\users\林俊浩\desktop\ws_ss2016_16340140_林俊浩_assign_2\md5\md5\md5.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\林俊浩\desktop\ws_ss2016_16340140_林俊浩_assign_2\md5\md5\md5.cpp(77): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\林俊浩\desktop\ws_ss2016_16340140_林俊浩_assign_2\md5\md5\md5.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  MD5.vcxproj -> C:\Users\林俊浩\Desktop\ws_ss2016_16340140_林俊浩_assign_2\MD5\Debug\MD5.exe
